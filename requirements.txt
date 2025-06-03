@@ -2,12 +2,12 @@
 # Core Networking
 colorama==0.4.6       # Colored console output
 psutil==5.9.5         # System and network monitoring
-requests==2.31.0      # HTTP requests for APIs
+requests==2.32.2      # HTTP requests for APIs
 scapy==2.5.0          # Packet manipulation and network scanning
 
 # DNS/WHOIS
 python-whois==0.9.3   # WHOIS lookups
-dnspython==2.4.2      # DNS queries
+dnspython==2.6.1      # DNS queries
 
 # Cybersecurity Enhancements
 concurrent-log-handler==0.9.24  # Thread-safe logging
