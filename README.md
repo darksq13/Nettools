@@ -46,6 +46,7 @@ pip install -r requirements.txt
 
 ## USAGE
 ### NETWORK INFORMATION
+```bash
 #### Get private IP addresses
 python Nettools_Version2.py private-ip
 
@@ -80,6 +81,7 @@ python Nettools_Version2.py whois google.com
 
 #### DNS A record lookup
 python Nettools_Version2.py dns example.com
+```
 
 ## INTERACTIVE MODE
 ### Launch interactive menu system
