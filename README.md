@@ -1,6 +1,6 @@
 # NETTOOLS- Advanced Cybersecurity Toolkit 🔒
 
-![Nettools Banner](https://i.imgur.com/JKvQx8E.png)
+![Nettools Banner]
 
 A multi-functional Python-based networking and security assessment tool with both command-line and interactive modes, designed for ethical hacking, penetration testing, and network diagnostics.
 
@@ -84,10 +84,15 @@ python Nettools_Version2.py dns example.com
 ```
 
 ## INTERACTIVE MODE
+
+```bash
 ### Launch interactive menu system
 python Nettools_Version2.py
+```
 
 ## COMMAND MODE (from within interactive)
+```bash
 nettools> port-scan 10.0.0.1 --ports 1-100
 nettools> whois microsoft.com
 nettools> back  # Return to main menu
+```
